@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except these files and folders
+!.gitignore
+!README.md
+!assets/
+!assets/**
+!.github/
+!.github/**
