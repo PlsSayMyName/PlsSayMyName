@@ -66,108 +66,40 @@ netrunner.jackIn();
 
 <br/>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); border: 4px solid; border-image: linear-gradient(180deg, #00fff9 0%, #ff00ff 33%, #fcee0a 66%, #39ff14 100%) 1; overflow: hidden; max-width: 700px; margin: 0 auto;">
-  <!-- Row 1: Cyan -->
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/typescript.svg" width="50" height="50" alt="TypeScript" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">TypeScript</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/javascript.svg" width="50" height="50" alt="JavaScript" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">JavaScript</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/html.svg" width="50" height="50" alt="HTML" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">HTML</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/css.svg" width="50" height="50" alt="CSS" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">CSS</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/react.svg" width="50" height="50" alt="React" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">React</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/svelte.svg" width="50" height="50" alt="Svelte" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Svelte</sub>
-  </div>
-  <!-- Row 2: Magenta -->
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/nodejs.svg" width="50" height="50" alt="Node.js" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Node.js</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/redux.svg" width="50" height="50" alt="Redux" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Redux</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/rxjs.svg" width="50" height="50" alt="RxJS" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">RxJS</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/sass.svg" width="50" height="50" alt="SASS" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">SASS</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/less.svg" width="50" height="50" alt="LESS" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">LESS</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/tailwind.svg" width="50" height="50" alt="Tailwind" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Tailwind</sub>
-  </div>
-  <!-- Row 3: Yellow -->
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/styledcomponents.svg" width="50" height="50" alt="Styled" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Styled</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/jest.svg" width="50" height="50" alt="Jest" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Jest</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/vitest.svg" width="50" height="50" alt="Vitest" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Vitest</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/playwright.svg" width="50" height="50" alt="Playwright" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Playwright</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/webpack.svg" width="50" height="50" alt="Webpack" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Webpack</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/vite.svg" width="50" height="50" alt="Vite" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Vite</sub>
-  </div>
-  <!-- Row 4: Green -->
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/gulp.svg" width="50" height="50" alt="Gulp" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Gulp</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/git.svg" width="50" height="50" alt="Git" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Git</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/claude.svg" width="50" height="50" alt="Claude" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Claude</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/docker.svg" width="50" height="50" alt="Docker" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Docker</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/aws.svg" width="50" height="50" alt="AWS" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">AWS</sub>
-  </div>
-  <div style="text-align: center; padding: 15px; border: 1px solid #2a2a3a;">
-    <img src="./assets/icons/bash.svg" width="50" height="50" alt="Bash" /><br>
-    <sub style="font-size: 1rem; margin-top: 8px; display: inline-block;">Bash</sub>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" width="110"><img src="./assets/icons/typescript.svg" width="50" height="50" alt="TypeScript" /><br><sub>TypeScript</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/javascript.svg" width="50" height="50" alt="JavaScript" /><br><sub>JavaScript</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/html.svg" width="50" height="50" alt="HTML" /><br><sub>HTML</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/css.svg" width="50" height="50" alt="CSS" /><br><sub>CSS</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/react.svg" width="50" height="50" alt="React" /><br><sub>React</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/svelte.svg" width="50" height="50" alt="Svelte" /><br><sub>Svelte</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="./assets/icons/nodejs.svg" width="50" height="50" alt="Node.js" /><br><sub>Node.js</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/redux.svg" width="50" height="50" alt="Redux" /><br><sub>Redux</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/rxjs.svg" width="50" height="50" alt="RxJS" /><br><sub>RxJS</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/sass.svg" width="50" height="50" alt="SASS" /><br><sub>SASS</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/less.svg" width="50" height="50" alt="LESS" /><br><sub>LESS</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/tailwind.svg" width="50" height="50" alt="Tailwind" /><br><sub>Tailwind</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="./assets/icons/styledcomponents.svg" width="50" height="50" alt="Styled" /><br><sub>Styled</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/jest.svg" width="50" height="50" alt="Jest" /><br><sub>Jest</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/vitest.svg" width="50" height="50" alt="Vitest" /><br><sub>Vitest</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/playwright.svg" width="50" height="50" alt="Playwright" /><br><sub>Playwright</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/webpack.svg" width="50" height="50" alt="Webpack" /><br><sub>Webpack</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/vite.svg" width="50" height="50" alt="Vite" /><br><sub>Vite</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="./assets/icons/gulp.svg" width="50" height="50" alt="Gulp" /><br><sub>Gulp</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/git.svg" width="50" height="50" alt="Git" /><br><sub>Git</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/claude.svg" width="50" height="50" alt="Claude" /><br><sub>Claude</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/docker.svg" width="50" height="50" alt="Docker" /><br><sub>Docker</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/aws.svg" width="50" height="50" alt="AWS" /><br><sub>AWS</sub></td>
+    <td align="center" width="110"><img src="./assets/icons/bash.svg" width="50" height="50" alt="Bash" /><br><sub>Bash</sub></td>
+  </tr>
+</table>
 
 <br/>
 
