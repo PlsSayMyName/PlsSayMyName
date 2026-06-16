@@ -118,7 +118,6 @@ netrunner.jackIn();
 <br/>
 
 <a href="https://github.com/PlsSayMyName">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PlsSayMyName&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00fff9&icon_color=ff00ff&text_color=c0c0c0&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=PlsSayMyName&hide_border=true&background=0d0d0d&stroke=1a1a2e&ring=ff00ff&fire=fcee0a&currStreakNum=00fff9&sideNums=c0c0c0&currStreakLabel=ff00ff&sideLabels=00fff9&dates=555555" alt="GitHub Streak" />
 </a>
 
