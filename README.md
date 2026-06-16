@@ -68,36 +68,36 @@ netrunner.jackIn();
 
 <table>
   <tr>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/typescript.svg" width="50" height="50" alt="TypeScript" /><br><br><sub style="font-size: 1.1rem;">TypeScript</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/javascript.svg" width="50" height="50" alt="JavaScript" /><br><br><sub style="font-size: 1.1rem;">JavaScript</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/html.svg" width="50" height="50" alt="HTML" /><br><br><sub style="font-size: 1.1rem;">HTML</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/css.svg" width="50" height="50" alt="CSS" /><br><br><sub style="font-size: 1.1rem;">CSS</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/react.svg" width="50" height="50" alt="React" /><br><br><sub style="font-size: 1.1rem;">React</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/svelte.svg" width="50" height="50" alt="Svelte" /><br><br><sub style="font-size: 1.1rem;">Svelte</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/typescript.svg" width="50" height="50" style="margin-bottom: 6px;" alt="TypeScript" /><br><sub style="font-size: 1.1rem;">TypeScript</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/javascript.svg" width="50" height="50" style="margin-bottom: 6px;" alt="JavaScript" /><br><sub style="font-size: 1.1rem;">JavaScript</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/html.svg" width="50" height="50" style="margin-bottom: 6px;" alt="HTML" /><br><sub style="font-size: 1.1rem;">HTML</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/css.svg" width="50" height="50" style="margin-bottom: 6px;" alt="CSS" /><br><sub style="font-size: 1.1rem;">CSS</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/react.svg" width="50" height="50" style="margin-bottom: 6px;" alt="React" /><br><sub style="font-size: 1.1rem;">React</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/svelte.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Svelte" /><br><sub style="font-size: 1.1rem;">Svelte</sub><br></td>
   </tr>
   <tr>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/nodejs.svg" width="50" height="50" alt="Node.js" /><br><br><sub style="font-size: 1.1rem;">Node.js</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/redux.svg" width="50" height="50" alt="Redux" /><br><br><sub style="font-size: 1.1rem;">Redux</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/rxjs.svg" width="50" height="50" alt="RxJS" /><br><br><sub style="font-size: 1.1rem;">RxJS</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/sass.svg" width="50" height="50" alt="SASS" /><br><br><sub style="font-size: 1.1rem;">SASS</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/less.svg" width="50" height="50" alt="LESS" /><br><br><sub style="font-size: 1.1rem;">LESS</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/tailwind.svg" width="50" height="50" alt="Tailwind" /><br><br><sub style="font-size: 1.1rem;">Tailwind</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/nodejs.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Node.js" /><br><sub style="font-size: 1.1rem;">Node.js</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/redux.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Redux" /><br><sub style="font-size: 1.1rem;">Redux</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/rxjs.svg" width="50" height="50" style="margin-bottom: 6px;" alt="RxJS" /><br><sub style="font-size: 1.1rem;">RxJS</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/sass.svg" width="50" height="50" style="margin-bottom: 6px;" alt="SASS" /><br><sub style="font-size: 1.1rem;">SASS</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/less.svg" width="50" height="50" style="margin-bottom: 6px;" alt="LESS" /><br><sub style="font-size: 1.1rem;">LESS</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/tailwind.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Tailwind" /><br><sub style="font-size: 1.1rem;">Tailwind</sub><br></td>
   </tr>
   <tr>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/styledcomponents.svg" width="50" height="50" alt="Styled" /><br><br><sub style="font-size: 1.1rem;">Styled</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/jest.svg" width="50" height="50" alt="Jest" /><br><br><sub style="font-size: 1.1rem;">Jest</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/vitest.svg" width="50" height="50" alt="Vitest" /><br><br><sub style="font-size: 1.1rem;">Vitest</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/playwright.svg" width="50" height="50" alt="Playwright" /><br><br><sub style="font-size: 1.1rem;">Playwright</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/webpack.svg" width="50" height="50" alt="Webpack" /><br><br><sub style="font-size: 1.1rem;">Webpack</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/vite.svg" width="50" height="50" alt="Vite" /><br><br><sub style="font-size: 1.1rem;">Vite</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/styledcomponents.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Styled" /><br><sub style="font-size: 1.1rem;">Styled</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/jest.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Jest" /><br><sub style="font-size: 1.1rem;">Jest</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/vitest.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Vitest" /><br><sub style="font-size: 1.1rem;">Vitest</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/playwright.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Playwright" /><br><sub style="font-size: 1.1rem;">Playwright</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/webpack.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Webpack" /><br><sub style="font-size: 1.1rem;">Webpack</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/vite.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Vite" /><br><sub style="font-size: 1.1rem;">Vite</sub><br></td>
   </tr>
   <tr>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/gulp.svg" width="50" height="50" alt="Gulp" /><br><br><sub style="font-size: 1.1rem;">Gulp</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/git.svg" width="50" height="50" alt="Git" /><br><br><sub style="font-size: 1.1rem;">Git</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/claude.svg" width="50" height="50" alt="Claude" /><br><br><sub style="font-size: 1.1rem;">Claude</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/docker.svg" width="50" height="50" alt="Docker" /><br><br><sub style="font-size: 1.1rem;">Docker</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/aws.svg" width="50" height="50" alt="AWS" /><br><br><sub style="font-size: 1.1rem;">AWS</sub><br></td>
-    <td align="center" width="130" height="100"><br><img src="./assets/icons/bash.svg" width="50" height="50" alt="Bash" /><br><br><sub style="font-size: 1.1rem;">Bash</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/gulp.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Gulp" /><br><sub style="font-size: 1.1rem;">Gulp</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/git.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Git" /><br><sub style="font-size: 1.1rem;">Git</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/claude.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Claude" /><br><sub style="font-size: 1.1rem;">Claude</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/docker.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Docker" /><br><sub style="font-size: 1.1rem;">Docker</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/aws.svg" width="50" height="50" style="margin-bottom: 6px;" alt="AWS" /><br><sub style="font-size: 1.1rem;">AWS</sub><br></td>
+    <td align="center" width="130" height="120"><br><img src="./assets/icons/bash.svg" width="50" height="50" style="margin-bottom: 6px;" alt="Bash" /><br><sub style="font-size: 1.1rem;">Bash</sub><br></td>
   </tr>
 </table>
 
@@ -151,7 +151,7 @@ netrunner.jackIn();
 <br/>
 
 ```
-"Getting in is not the problem. It's getting out alive."
+"The future is already here — it's just not evenly distributed." - William Gibson
 ```
 
 <br/>
