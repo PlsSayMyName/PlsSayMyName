@@ -68,36 +68,36 @@ netrunner.jackIn();
 
 <table>
   <tr>
-    <td align="center" width="110"><img src="./assets/icons/typescript.svg" width="50" height="50" alt="TypeScript" /><br><sub>TypeScript</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/javascript.svg" width="50" height="50" alt="JavaScript" /><br><sub>JavaScript</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/html.svg" width="50" height="50" alt="HTML" /><br><sub>HTML</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/css.svg" width="50" height="50" alt="CSS" /><br><sub>CSS</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/react.svg" width="50" height="50" alt="React" /><br><sub>React</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/svelte.svg" width="50" height="50" alt="Svelte" /><br><sub>Svelte</sub></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/typescript.svg" width="50" height="50" alt="TypeScript" /><br><br><sub style="font-size: 1.1rem;">TypeScript</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/javascript.svg" width="50" height="50" alt="JavaScript" /><br><br><sub style="font-size: 1.1rem;">JavaScript</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/html.svg" width="50" height="50" alt="HTML" /><br><br><sub style="font-size: 1.1rem;">HTML</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/css.svg" width="50" height="50" alt="CSS" /><br><br><sub style="font-size: 1.1rem;">CSS</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/react.svg" width="50" height="50" alt="React" /><br><br><sub style="font-size: 1.1rem;">React</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/svelte.svg" width="50" height="50" alt="Svelte" /><br><br><sub style="font-size: 1.1rem;">Svelte</sub><br></td>
   </tr>
   <tr>
-    <td align="center" width="110"><img src="./assets/icons/nodejs.svg" width="50" height="50" alt="Node.js" /><br><sub>Node.js</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/redux.svg" width="50" height="50" alt="Redux" /><br><sub>Redux</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/rxjs.svg" width="50" height="50" alt="RxJS" /><br><sub>RxJS</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/sass.svg" width="50" height="50" alt="SASS" /><br><sub>SASS</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/less.svg" width="50" height="50" alt="LESS" /><br><sub>LESS</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/tailwind.svg" width="50" height="50" alt="Tailwind" /><br><sub>Tailwind</sub></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/nodejs.svg" width="50" height="50" alt="Node.js" /><br><br><sub style="font-size: 1.1rem;">Node.js</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/redux.svg" width="50" height="50" alt="Redux" /><br><br><sub style="font-size: 1.1rem;">Redux</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/rxjs.svg" width="50" height="50" alt="RxJS" /><br><br><sub style="font-size: 1.1rem;">RxJS</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/sass.svg" width="50" height="50" alt="SASS" /><br><br><sub style="font-size: 1.1rem;">SASS</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/less.svg" width="50" height="50" alt="LESS" /><br><br><sub style="font-size: 1.1rem;">LESS</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/tailwind.svg" width="50" height="50" alt="Tailwind" /><br><br><sub style="font-size: 1.1rem;">Tailwind</sub><br></td>
   </tr>
   <tr>
-    <td align="center" width="110"><img src="./assets/icons/styledcomponents.svg" width="50" height="50" alt="Styled" /><br><sub>Styled</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/jest.svg" width="50" height="50" alt="Jest" /><br><sub>Jest</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/vitest.svg" width="50" height="50" alt="Vitest" /><br><sub>Vitest</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/playwright.svg" width="50" height="50" alt="Playwright" /><br><sub>Playwright</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/webpack.svg" width="50" height="50" alt="Webpack" /><br><sub>Webpack</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/vite.svg" width="50" height="50" alt="Vite" /><br><sub>Vite</sub></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/styledcomponents.svg" width="50" height="50" alt="Styled" /><br><br><sub style="font-size: 1.1rem;">Styled</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/jest.svg" width="50" height="50" alt="Jest" /><br><br><sub style="font-size: 1.1rem;">Jest</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/vitest.svg" width="50" height="50" alt="Vitest" /><br><br><sub style="font-size: 1.1rem;">Vitest</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/playwright.svg" width="50" height="50" alt="Playwright" /><br><br><sub style="font-size: 1.1rem;">Playwright</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/webpack.svg" width="50" height="50" alt="Webpack" /><br><br><sub style="font-size: 1.1rem;">Webpack</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/vite.svg" width="50" height="50" alt="Vite" /><br><br><sub style="font-size: 1.1rem;">Vite</sub><br></td>
   </tr>
   <tr>
-    <td align="center" width="110"><img src="./assets/icons/gulp.svg" width="50" height="50" alt="Gulp" /><br><sub>Gulp</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/git.svg" width="50" height="50" alt="Git" /><br><sub>Git</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/claude.svg" width="50" height="50" alt="Claude" /><br><sub>Claude</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/docker.svg" width="50" height="50" alt="Docker" /><br><sub>Docker</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/aws.svg" width="50" height="50" alt="AWS" /><br><sub>AWS</sub></td>
-    <td align="center" width="110"><img src="./assets/icons/bash.svg" width="50" height="50" alt="Bash" /><br><sub>Bash</sub></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/gulp.svg" width="50" height="50" alt="Gulp" /><br><br><sub style="font-size: 1.1rem;">Gulp</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/git.svg" width="50" height="50" alt="Git" /><br><br><sub style="font-size: 1.1rem;">Git</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/claude.svg" width="50" height="50" alt="Claude" /><br><br><sub style="font-size: 1.1rem;">Claude</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/docker.svg" width="50" height="50" alt="Docker" /><br><br><sub style="font-size: 1.1rem;">Docker</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/aws.svg" width="50" height="50" alt="AWS" /><br><br><sub style="font-size: 1.1rem;">AWS</sub><br></td>
+    <td align="center" width="130" height="100"><br><img src="./assets/icons/bash.svg" width="50" height="50" alt="Bash" /><br><br><sub style="font-size: 1.1rem;">Bash</sub><br></td>
   </tr>
 </table>
 
@@ -145,8 +145,8 @@ netrunner.jackIn();
 <br/>
 
 [![GitHub](https://img.shields.io/badge/github-0d0d0d?style=for-the-badge&logo=github&logoColor=00fff9)](https://github.com/PlsSayMyName)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff00ff)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=fcee0a)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff00ff)](https://linkedin.com/in/dmitrij-menkowski)
+[![Email](https://img.shields.io/badge/email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=fcee0a)](mailto:madaraisback@gmail.com)
 
 <br/>
 
