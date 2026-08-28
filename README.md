@@ -118,19 +118,19 @@ netrunner.jackIn();
 <br/>
 
 <a href="https://github.com/PlsSayMyName">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=PlsSayMyName&hide_border=true&background=0d0d0d&stroke=1a1a2e&ring=ff00ff&fire=fcee0a&currStreakNum=00fff9&sideNums=c0c0c0&currStreakLabel=ff00ff&sideLabels=00fff9&dates=555555" alt="GitHub Streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=PlsSayMyName&hide_border=true&background=0d0d0d&stroke=1a1a2e&ring=ff00ff&fire=fcee0a&currStreakNum=00fff9&sideNums=c0c0c0&currStreakLabel=ff00ff&sideLabels=00fff9&dates=555555" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PlsSayMyName&bg_color=0d0d0d&color=00fff9&line=ff00ff&point=fcee0a&area=true&area_color=1a1a2e&hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PlsSayMyName&theme=radical" width="95%" alt="Activity Graph"/>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PlsSayMyName/PlsSayMyName/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PlsSayMyName/PlsSayMyName/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/PlsSayMyName/PlsSayMyName/blob/output/github-snake-dark.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PlsSayMyName/dzmitry/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PlsSayMyName/dzmitry/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PlsSayMyName/dzmitry/output/github-snake-dark.svg" width="95%" />
 </picture>
 
 </div>
